@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @justinmarkey
-- 👀 I’m interested in Finance and Software
-- 🌱 I’m currently learning Golang and services
-- 💞️ I’m looking to collaborate on anything and everything
+- 👋 Hi, I’m @justinmarkey, and Python is my go-to
+- 👀 Passionate about Data Analytics and Finance!
+- 💞️ Always looking to contribute and learn!
 
 <!---
 justinmarkey/justinmarkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
